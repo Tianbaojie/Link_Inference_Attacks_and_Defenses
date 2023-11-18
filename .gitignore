@@ -1,0 +1,6 @@
+*.txt
+*.pkl
+*.csv
+*.pt
+outputs/*
+dataset/*
